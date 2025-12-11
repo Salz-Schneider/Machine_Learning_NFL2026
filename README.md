@@ -18,7 +18,7 @@ The repository is organized into three folders, each containing a different mode
 
 - [Stacked Model](./Stacked)
 - [TCN Model](./TCN)
-- [CatBoost Model](./Catboost)
+- [CatBoost Model](./CatBoost)
 
 ## Final Model
 
