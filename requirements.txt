@@ -1,0 +1,35 @@
+# Core Data Science Libraries
+numpy>=1.24.0
+pandas>=1.5.0
+scipy>=1.9.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+plotly>=5.0.0
+
+# Machine Learning
+scikit-learn>=1.0.0
+xgboost>=1.5.0
+lightgbm>=3.3.0
+
+# Deep Learning (optional, uncomment if needed)
+# tensorflow>=2.8.0
+# torch>=1.10.0
+
+# Jupyter
+jupyter>=1.0.0
+ipykernel>=6.0.0
+ipywidgets>=7.6.0
+
+# Data Processing
+joblib>=1.1.0
+
+# Progress bars
+tqdm>=4.62.0
+
+# Model evaluation
+shap>=0.40.0
+
+# Kaggle API (for downloading competition data)
+kaggle>=1.5.12
