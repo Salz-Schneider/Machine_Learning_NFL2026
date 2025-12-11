@@ -12,7 +12,6 @@
 ## Project Overview
 
 This repository contains our course project for the Machine Learning class at Hasselt University. The goal was to analyze and develop a machine learning solution for the Kaggle Challenge: **NFL Big Data Bowl 2026 – Prediction**.
-The project consisted in analysing and building a ML solution for the Kaggle Challenge: **NFL Big Data Bowl 2026 – Prediction**.
 
 ## Repository Structure
 The repository is organized into three folders, each containing a different model we developed:
